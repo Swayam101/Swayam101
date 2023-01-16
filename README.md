@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **swayamprajapat21@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zXbK9J1i7f9m_HDM7pfGyCn-0I_8ZQDN/view?usp=share_link](https://drive.google.com/file/d/1zXbK9J1i7f9m_HDM7pfGyCn-0I_8ZQDN/view?usp=share_link)
+
 - ⚡ Fun fact **A Fact is Never Fun XD!**
 
 <h3 align="left">Connect with me:</h3>
