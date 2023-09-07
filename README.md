@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Node JS Basic Projects](https://github.com/Swayam101/Node-JS-Basic-Projects.git)
 
-- 🌱 I’m currently learning **Advance NodeJS , MongoDB**
+- 🌱 I’m currently learning **NEXT.JS , Strapi**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Swayam101](https://github.com/Swayam101)
 
