@@ -1,29 +1,96 @@
-<h1 align="center">Hi 👋, I'm Swayam Prajapat</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swayam101&label=Profile%20views&color=0e75b6&style=flat" alt="swayam101" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2"/>
 
-- 🔭 I’m currently working on [Fetchmates](https://github.com/Swayam101/Fetchmate2.0)
+# SWAYAM PRAJAPAT
 
-- 🌱 I’m currently learning **Go , NodeJS, React-native**
+**`backend heavy. 3d curious. onchain. ai-native. chronically online.`**
 
-- 💬 Ask me about **React, Node, MongoDB, Back-End Development, REST APIs**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2"/>
 
-- 📫 How to reach me **swayamprajapat21@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://swayam-prajapat-resume.tiiny.site/](https://swayam-prajapat-resume.tiiny.site/)
+<br/>
 
-- ⚡ Fun fact **Typscript is just a Dev Tool**
+i write code that runs in the dark —  
+servers you never see, chains no one owns, models that think while you sleep.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/swayam-prajapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swayam-prajapat" height="30" width="40" /></a>
-<a href="https://instagram.com/swayam_slays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swayam_slays" height="30" width="40" /></a>
-<a href="https://medium.com/@swayamprajapat21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@swayamprajapat21" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sammy_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sammy_x" height="30" width="40" /></a>
-</p>
+by day i'm an engineer. by night i'm the same engineer, just with no meetings.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swayam101&show_icons=true&locale=en&layout=compact" alt="swayam101" /></p>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**what i actually do**
+
+backend systems that hold up  
+when everything else falls apart.
+
+3d frontends because someone has to  
+make the web feel like it's alive.
+
+smart contracts because the only  
+middleman i trust is math.
+
+llm pipelines, rag systems, agents —  
+because the boring ai apps bore me.
+
+</td>
+<td valign="top" width="50%">
+
+**when i'm not doing that**
+
+losing ranked games and blaming teammates.
+
+thinking about something nobody asked me to think about.
+
+occasionally touching grass.
+
+</td>
+</tr>
+</table>
+
+---
+
+```typescript
+// swayam.config.ts
+
+export default {
+  stack: {
+    languages : ["TypeScript", "JavaScript", "Python", "Solidity", "GLSL"],
+    frontend  : ["Next.js", "React", "Three.js", "WebGL", "Framer Motion"],
+    backend   : ["Node.js", "FastAPI", "GraphQL", "tRPC", "Redis", "BullMQ"],
+    database  : ["PostgreSQL", "MongoDB", "Prisma", "Qdrant", "Pinecone"],
+    blockchain: ["EVM", "Solidity", "Ethers.js", "Viem", "Hardhat", "IPFS"],
+    ai        : ["LangChain", "LlamaIndex", "Ollama", "HuggingFace", "RAG"],
+    infra     : ["Docker", "Linux", "Nginx", "GitHub Actions"],
+  },
+
+  currentlyBuilding : "something that doesn't exist yet",
+  openTo            : "collabs, contracts, conversations",
+  notOpenTo         : "meetings before 11am",
+} satisfies Developer;
+```
+
+---
+
+<div align="center">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Swayam101&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=444444&text_color=666666&count_private=true&include_all_commits=true&hide_rank=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam101&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&langs_count=5"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[swayam.space](https://swayam.space) &nbsp;·&nbsp; [x.com/swayam_dev](https://x.com/swayam_dev) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/swayam-prajapat/) &nbsp;·&nbsp; [swayamprajapat21@gmail.com](mailto:swayamprajapat21@gmail.com)
+
+<br/>
+
+<sub>if the repo has no readme it was written at 2am and it works, trust me</sub>
+
+</div>
