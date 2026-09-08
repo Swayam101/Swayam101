@@ -1,96 +1,78 @@
-<div align="center">
+# Swayam Prajapat
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2"/>
+**full-stack developer · building things that make me curious**
 
-# SWAYAM PRAJAPAT
+I like turning ideas into working software — from web applications and backend systems to experiments with AI and developer tooling.
 
-**`backend heavy. 3d curious. onchain. ai-native. chronically online.`**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2"/>
-
-</div>
-
-<br/>
-
-i write code that runs in the dark —  
-servers you never see, chains no one owns, models that think while you sleep.
-
-by day i'm an engineer. by night i'm the same engineer, just with no meetings.
+Currently exploring **TypeScript, Next.js, backend architecture, and AI-powered applications.**
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### what I'm building
 
-**what i actually do**
+```text
+→ products that solve actual problems
+→ backend systems that don't fall apart
+→ AI features that are actually useful
+→ experiments that teach me something new
+```
 
-backend systems that hold up  
-when everything else falls apart.
+### selected work
 
-3d frontends because someone has to  
-make the web feel like it's alive.
+| Project                                                               | What it is                                                           |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **[portfolio-next](https://github.com/Swayam101/portfolio-next)**     | My current portfolio, built with Next.js + TypeScript                |
+| **[idea-processor](https://github.com/Swayam101/idea-processor)**     | An ongoing experiment around turning ideas into something actionable |
+| **[idea-recorder-tg](https://github.com/Swayam101/idea-recorder-tg)** | A Telegram-based idea capture experiment                             |
+| **[First-Portfolio](https://github.com/Swayam101/First-Portfolio)**   | An earlier exploration of semantic HTML, CSS and vanilla JavaScript  |
 
-smart contracts because the only  
-middleman i trust is math.
-
-llm pipelines, rag systems, agents —  
-because the boring ai apps bore me.
-
-</td>
-<td valign="top" width="50%">
-
-**when i'm not doing that**
-
-losing ranked games and blaming teammates.
-
-thinking about something nobody asked me to think about.
-
-occasionally touching grass.
-
-</td>
-</tr>
-</table>
+> I keep older projects around because they show where I started — not everything needs to be production-ready to be worth learning from.
 
 ---
 
-```typescript
-// swayam.config.ts
+### stack
 
-export default {
-  stack: {
-    languages : ["TypeScript", "JavaScript", "Python", "Solidity", "GLSL"],
-    frontend  : ["Next.js", "React", "Three.js", "WebGL", "Framer Motion"],
-    backend   : ["Node.js", "FastAPI", "GraphQL", "tRPC", "Redis", "BullMQ"],
-    database  : ["PostgreSQL", "MongoDB", "Prisma", "Qdrant", "Pinecone"],
-    blockchain: ["EVM", "Solidity", "Ethers.js", "Viem", "Hardhat", "IPFS"],
-    ai        : ["LangChain", "LlamaIndex", "Ollama", "HuggingFace", "RAG"],
-    infra     : ["Docker", "Linux", "Nginx", "GitHub Actions"],
-  },
+**Languages**
 
-  currentlyBuilding : "something that doesn't exist yet",
-  openTo            : "collabs, contracts, conversations",
-  notOpenTo         : "meetings before 11am",
-} satisfies Developer;
+`TypeScript` `JavaScript` `Python`
+
+**Frontend**
+
+`React` `Next.js` `HTML` `CSS`
+
+**Backend**
+
+`Node.js` `REST APIs` `SQL`
+
+**Tools**
+
+`Git` `GitHub` `Linux`
+
+I'm more interested in **what I can build with a technology** than collecting technologies for the sake of a list.
+
+---
+
+### currently
+
+```ts
+const swayam = {
+  building: "things I wish existed",
+  learning: ["better system design", "AI applications", "backend engineering"],
+  exploring: ["new ideas", "new tools", "new ways to build"],
+  openTo: ["interesting projects", "collaboration", "good conversations"],
+};
 ```
 
 ---
 
-<div align="center">
+### find me
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Swayam101&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=444444&text_color=666666&count_private=true&include_all_commits=true&hide_rank=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam101&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&langs_count=5"/>
-
-</div>
+🌐 **Website** → [swayam.cyou](https://www.swayam.cyou/)
+💼 **LinkedIn** → [swayam-prajapat](https://www.linkedin.com/in/swayam-prajapat/)
+𝕏 **X** → [@swayam_dev](https://x.com/swayam_dev)
 
 ---
 
-<div align="center">
-
-[swayam.space](https://swayam.space) &nbsp;·&nbsp; [x.com/swayam_dev](https://x.com/swayam_dev) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/swayam-prajapat/) &nbsp;·&nbsp; [swayamprajapat21@gmail.com](mailto:swayamprajapat21@gmail.com)
-
-<br/>
-
-<sub>if the repo has no readme it was written at 2am and it works, trust me</sub>
-
-</div>
+<p align="center">
+  <sub>build → break → learn → repeat</sub>
+</p>
