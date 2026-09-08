@@ -34,7 +34,7 @@
 | Project | What it is |
 |---|---|
 | **[portfolio-next](https://github.com/Swayam101/portfolio-next)** | My current portfolio, built with Next.js + TypeScript |
-| **[idea-processor](https://github.com/Swayam101/idea-processor)** | An ongoing experiment around turning ideas into something actionable |
+| **[video automation tool](https://github.com/Swayam101/va-tool)** | An ongoing experiment around turning ideas into instagram reels |
 | **[idea-recorder-tg](https://github.com/Swayam101/idea-recorder-tg)** | A Telegram-based idea capture experiment |
 | **[First-Portfolio](https://github.com/Swayam101/First-Portfolio)** | An earlier exploration of semantic HTML, CSS and vanilla JavaScript |
 
